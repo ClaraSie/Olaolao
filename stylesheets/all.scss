@@ -29,4 +29,6 @@
 // @import "../node_modules/bootstrap/scss/utilities/api";
 
 // // 8. Add additional custom code here
+@import "./helpers/utilities";
 @import "./components/utilities";
+@import "./components/deco-box";
